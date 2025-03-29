@@ -5,7 +5,7 @@
  * Learn more about Gradle by exploring our Samples at https://docs.gradle.org/8.13/samples
  */
 task firstTask {
-  println "Hello World!"
+  println "Start Configuration..."
   doFirst() {
     println "First Action!!"
   }
@@ -24,3 +24,5 @@ task secondTask {
     println "Last Action in second Task"
   }
 }
+
+println "End Configuration..."
