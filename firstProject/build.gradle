@@ -4,6 +4,8 @@
  * This is a general purpose Gradle build.
  * Learn more about Gradle by exploring our Samples at https://docs.gradle.org/8.13/samples
  */
+println "Start Configuration..."
+
 tasks.register('firstTask') {
     println "Hello World!"
     doFirst {
@@ -24,3 +26,5 @@ tasks.register('secondTask') {
         println "Last action in secondTask"
     }
 }
+
+println "End Configuration..."
