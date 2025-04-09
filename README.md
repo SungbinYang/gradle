@@ -18,3 +18,4 @@
 - Groovy 설치 및 HelloWorld 만들어보기
 - Data Type에 대해서 알아보자
 - Methods에 대해 알아보자
+- Class에 대해 알아보자
