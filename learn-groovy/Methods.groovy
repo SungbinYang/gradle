@@ -10,6 +10,12 @@ def add2(int a, int b) {
 
 println(add2(a = 3, b = 4))
 
+def add3(a, b) {
+  return a + b
+}
+
+println(add3(a = 3, b = 4))
+
 def add4(a, b) {
   a * b // 이 부분은 스킵
   a + b // 이 부분이 반환
