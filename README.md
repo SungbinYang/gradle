@@ -16,3 +16,4 @@
 ## Groovy 언어의 기본
 
 - Groovy 설치 및 HelloWorld 만들어보기
+- Data Type에 대해서 알아보자
