@@ -30,3 +30,4 @@
 ## Multi Modules 프로젝트
 
 - Multi 모듈 프로젝트 소개
+- Project script blocks에 대해 알아보자
