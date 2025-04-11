@@ -32,3 +32,4 @@
 - Multi 모듈 프로젝트 소개
 - Project script blocks에 대해 알아보자
 - 모듈 간의 Dependency에 대해 알아보자
+- Java Applications with libraries(ft. Convention Plugins)에 대해 알아보자
