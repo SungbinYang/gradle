@@ -26,3 +26,7 @@
 
 - Project 클래스에 대해 알아보자
 - Task 클래스에 대해 알아보자
+
+## Multi Modules 프로젝트
+
+- Multi 모듈 프로젝트 소개
