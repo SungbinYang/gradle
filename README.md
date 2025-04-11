@@ -34,3 +34,4 @@
 - 모듈 간의 Dependency에 대해 알아보자
 - Java Applications with libraries(ft. Convention Plugins)에 대해 알아보자
 - Application과 Library의 차이점에 대해 알아보자(ft. Producer vs. Consumer)
+- Java Applications with libraries 구조에 대해 알아보자
